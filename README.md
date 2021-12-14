@@ -15,9 +15,3 @@ Sebelum menggunakan aplikasi ini silakan atur konfigurasi database terlebih dahu
 - Buka folder **include** lalu edit file **config.php** lalu sesuaikan `username`, `password` dan `database` dengan yang Anda gunakan.
 
 Untuk tampilan terbaik, gunakan browser Google Chrome versi terbaru.
-
-Inspired by Nur Akhwam.
-
----
-
-Ini adalah source code dari postingan https://masrud.com/post/aplikasi-manajemen-surat-php-mysqli
